@@ -34,9 +34,3 @@ core
 *.out
 *.app
 *.vim
-find
-.
--size
-+3M
-obj/catch.tst.x
-catch.tst.x
